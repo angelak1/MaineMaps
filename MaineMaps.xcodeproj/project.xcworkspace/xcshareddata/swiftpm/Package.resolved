@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "arcgis-maps-sdk-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Esri/arcgis-maps-sdk-swift",
+      "state" : {
+        "revision" : "6fe1517b11451bbbed6266e9e63f4a7a6d48a81b",
+        "version" : "200.3.0"
+      }
+    },
+    {
+      "identity" : "arcgis-maps-sdk-swift-toolkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Esri/arcgis-maps-sdk-swift-toolkit",
+      "state" : {
+        "revision" : "99988c2160d2932f542d90a432718abd102b5895",
+        "version" : "200.3.0"
+      }
+    }
+  ],
+  "version" : 2
+}
