@@ -59,6 +59,11 @@
 		B6B7B8532B3F939500A73212 /* NSPredicate+helper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "NSPredicate+helper.swift"; sourceTree = "<group>"; };
 		B6B7B8552B3F93F400A73212 /* OfflineMap+helper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "OfflineMap+helper.swift"; sourceTree = "<group>"; };
 		B6B7B8582B3FA02D00A73212 /* OfflineFullScreenMapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OfflineFullScreenMapView.swift; sourceTree = "<group>"; };
+		B6C28E722B76D64900B22C79 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		B6C28E822B76E6FA00B22C79 /* fullscreenMaine.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = fullscreenMaine.png; path = ../../../Desktop/fullscreenMaine.png; sourceTree = "<group>"; };
+		B6C28E832B76E6FA00B22C79 /* fullscreenBangor.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = fullscreenBangor.png; path = ../../../Desktop/fullscreenBangor.png; sourceTree = "<group>"; };
+		B6C28E842B76E6FA00B22C79 /* postdownload.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = postdownload.png; path = ../../../Desktop/postdownload.png; sourceTree = "<group>"; };
+		B6C28E852B76E6FA00B22C79 /* predownload.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = predownload.png; path = ../../../Desktop/predownload.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +90,8 @@
 		B6B7B8002B3DFE6B00A73212 = {
 			isa = PBXGroup;
 			children = (
+				B6C28E732B76DD9700B22C79 /* Screenshots */,
+				B6C28E722B76D64900B22C79 /* README.md */,
 				B6B7B80B2B3DFE6B00A73212 /* MaineMaps */,
 				B6B7B80A2B3DFE6B00A73212 /* Products */,
 			);
@@ -174,6 +181,17 @@
 				B6B7B8552B3F93F400A73212 /* OfflineMap+helper.swift */,
 			);
 			path = CoreData;
+			sourceTree = "<group>";
+		};
+		B6C28E732B76DD9700B22C79 /* Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+				B6C28E832B76E6FA00B22C79 /* fullscreenBangor.png */,
+				B6C28E822B76E6FA00B22C79 /* fullscreenMaine.png */,
+				B6C28E842B76E6FA00B22C79 /* postdownload.png */,
+				B6C28E852B76E6FA00B22C79 /* predownload.png */,
+			);
+			path = Screenshots;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
